@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22230" started-at="2020-01-10T12:45:29 ART" finished-at="2020-01-10T12:45:52 ART">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22230" started-at="2020-01-10T12:45:29 ART" finished-at="2020-01-10T12:45:52 ART">
+      <class name="DevigetChallenge">
+        <test-method status="PASS" signature="devigetChallengeTest()[pri:0, instance:DevigetChallenge@4b4523f8]" name="devigetChallengeTest" duration-ms="22171" started-at="2020-01-10T12:45:29 ART" finished-at="2020-01-10T12:45:52 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- devigetChallengeTest -->
+      </class> <!-- DevigetChallenge -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
